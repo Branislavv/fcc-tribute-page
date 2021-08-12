@@ -11,7 +11,7 @@ Dakle treba mi:
 4. Slika subjekta
 5. Kratak opis slike
 6. 2-5 se nalazi unutar jos jedne forme/prozorceta
-7. Neki kratak tekst o subjektu, ako moze uz koriscenje <ul> liste
+7. Neki kratak tekst o subjektu, ako moze uz koriscenje < ul> liste
 8. Mali fusnota u italic formatu
 9. Mozda i dodam lorem ipsum dole da bi bilo isto kao na onoj stranici
 
